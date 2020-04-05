@@ -20,6 +20,28 @@ NOTICE:			I use PowerShell ISE for this and you can hide the script pane using C
 
 You can then close out of the Administrator PowerShell ISE, open a regular PowerShell ISE, open the script and run it.
 
+
+#List of features in this script:
+1. Remotely clear the cache and temporary files on another PC
+2. Remotely reboot or shutdown another PC
+3. Remotely change the volume or clock time zone of another PC
+4. Remotely restart the printer spooler and clear the print queue of another PC
+5. Get general or detailed system information of a remote PC including (where possible):
+    1. Current logged in user
+    2. OS info (operating system, serial number, architecture)
+    3. System info (PC name, domain, manufacturer, model, system type)
+    4. Current time, last boot up time, and system uptime
+    5. Disk space (lists all local drives, their size, and free space)
+    6. Memory info (bank label, capacity, data width, and device locator)
+    7. PC serial number
+    8. PC printer info
+    9. Add/Remove Program list
+    10. Process list
+    11. Service list
+    12. USB devices
+    13. CPU info (name, make/model, manufacturer, processor ID, number of cores, architecture)
+    14. Monitor serial numbers (note: all-in-one computers will not list any monitors)
+
 References:
 
   https://techtalk.gfi.com/11-most-useful-powershell-commands-for-remote-management/
