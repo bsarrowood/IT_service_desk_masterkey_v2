@@ -26,7 +26,10 @@ You can then close out of the Administrator PowerShell ISE, open a regular Power
 2. Remotely reboot or shutdown another PC
 3. Remotely change the volume or clock time zone of another PC
 4. Remotely restart the printer spooler and clear the print queue of another PC
-5. Get general or detailed system information of a remote PC including (where possible):
+5. Remotely kill a process of another PC
+6. Remotely make a backup of all files in specific folders on a PC to their network drive in a unquie folder
+7. Send a custom pop-up message to a remote PC (does not 
+8. Get general or detailed system information of a remote PC including (where possible):
     1. Current logged in user
     2. OS info (operating system, serial number, architecture)
     3. System info (PC name, domain, manufacturer, model, system type)
