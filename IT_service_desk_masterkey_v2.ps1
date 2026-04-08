@@ -1,6 +1,6 @@
 # Created by:		Brad Arrowood
 # Created on:		2019.06.01
-# Last updated:		2019.10.29
+# Last updated:		2026.04.08 [previously updated 2019.10.29]
 # Script name:		IT_service_desk_masterkey_v2.ps1 (aka slim.ps1)
 # Description:		An updated script from my previous IT_service_desk_masterkey_v1.bat to include
 #			new features and potentially speed up previously slower tasks from the last version.
