@@ -1,4 +1,4 @@
-# SLIM Tool (Service Line Interface Manager)
+# SLIM Tool
 
 **Created by:** Brad Arrowood
 
@@ -10,9 +10,9 @@
 
 ## Overview
 
-SLIM Tool is a PowerShell-based remote administration toolkit originally built for Tier 2 desktop support. It provides a text-based menu interface for remotely managing Windows PCs, POS registers, and back office computers across retail store environments.
+SLIM Tool is a PowerShell-based remote administration toolkit originally built for Tier 2 desktop support. The name "SLIM" was chosen to reflect the tool's design philosophy: a simple, easy-to-remember name for a tool that presents a slim, minimal front-end while handling a robust set of operations behind the scenes.
 
-The script evolved from a collection of `.bat` and `.cmd` files into a full-featured PowerShell tool with nested menus, automatic device-type detection (POS vs. standard PC), and functions for common support tasks -- all designed so that non-technical team members could use it by simply entering a computer name or store number.
+It provides a text-based menu interface for remotely managing Windows PCs, POS registers, and back office computers across retail store environments. The script evolved from a collection of `.bat` and `.cmd` files into a full-featured PowerShell tool with nested menus, automatic device-type detection (POS vs. standard PC), and functions for common support tasks -- all designed so that non-technical team members could use it by simply entering a computer name or store number.
 
 ## Requirements
 
